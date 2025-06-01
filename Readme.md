@@ -30,6 +30,9 @@ This project analyzes employee performance and attrition data to provide insight
   Counts how many employees exited the company during the year 2023.
 
 ------------------------------------------------------------
+** For Reference**
+--- emp perf.png
+--- emp exit.png
 
 ** Technologies Used
 
