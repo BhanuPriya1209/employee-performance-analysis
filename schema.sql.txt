@@ -5,5 +5,5 @@ CREATE TABLE employees (
     performance_score INT,
     is_active BOOLEAN,
     join_date DATE,
-    leave_date DATE
+    exit_date DATE
 );
