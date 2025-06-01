@@ -38,7 +38,10 @@ This project analyzes employee performance and attrition data to provide insight
 ** For Reference**
 --- emp perf.png
 --- emp exit.png
+--- perf rnk.png
+--- joined yr.png
 
+-------------------------------------------------------------
 ** Technologies Used
 
 - SQLite for database and query execution
