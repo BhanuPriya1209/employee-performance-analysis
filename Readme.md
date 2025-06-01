@@ -28,7 +28,12 @@ This project analyzes employee performance and attrition data to provide insight
 
 - **Count of employees who left in 2023**  
   Counts how many employees exited the company during the year 2023.
-
+  
+- **Performance Rank by Department**
+   Ranks employees within each department using `RANK()` window function.
+  
+- **Employees Joined Per Year**
+   Year-wise count of employee onboarding.
 ------------------------------------------------------------
 ** For Reference**
 --- emp perf.png
