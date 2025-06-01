@@ -1,17 +1,46 @@
 # Employee Performance and Attrition Analysis
 
-## Overview
-This project explores employee data to understand performance levels and attrition trends in a company. Using SQL queries, I analyzed how different departments are performing and tracked employee departures over time.
+** Project Goal**
+This project analyzes employee performance and attrition data to provide insights into department-wise performance averages and employee turnover. The aim is to help HR and management understand workforce trends and identify areas for improvement.
 
-## What’s Inside
-- **schema.sql** — Creates the employee table structure
-- **data.sql** — Sample employee records to work with
-- **queries.sql** — SQL queries that calculate average performance by department and count employees who left recently
+------------------------------------------------------------
 
-## Why I Built This
-I wanted to practice writing SQL queries on real-world scenarios and build a small project to demonstrate my skills in data analysis and database management.
+** How to Set Up and Run the Project **
 
----
+1. **Clone or download** this repository to your local machine.
 
-Feel free to explore the queries and data.
+2. Open a SQL environment that supports SQLite, such as [SQLiteOnline](https://sqliteonline.com), or install SQLite locally.
+
+3. Run the following files **in order**:
+
+   - `schema.sql`: Creates the `employees` table.
+   - `data.sql`: Inserts sample employee records.
+   - `queries.sql`: Contains SQL queries for performance and attrition analysis.
+
+4. Review query outputs to analyze the results.
+
+------------------------------------------------------------
+
+** What Each Query Does **
+
+- **Average performance per department (active employees)**  
+  Calculates the average performance score for employees currently active in each department.
+
+- **Count of employees who left in 2023**  
+  Counts how many employees exited the company during the year 2023.
+
+------------------------------------------------------------
+
+** Technologies Used
+
+- SQLite for database and query execution
+- SQL for data definition and analysis
+
+
+
+
+------------------
+Bhanu Priya Chavala
+https://github.com/BhanuPriya1209/employee-performance-analysis
+
 
